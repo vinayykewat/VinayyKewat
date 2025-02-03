@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vinay Sahani</h1>
-<h3 align="center">A 1.5 years Experianced  Data Analytic from India </h3>
+<h3 align="center">A 1.5 years Experianced  Data Analytic from Konexions on Off Payrole in Airtel Africa </h3>
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayykewat&label=Profile%20views&color=0e75b6&style=flat" alt="vinayykewat" /> </p>
