@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Data Analytics AI **
 
-- 💬 Ask me about **Python ,Advanced Excel, Power BI, SQL **
+- 💬 Ask me about **Python, Advanced Excel, Power BI, SQL **
 
 - 📫 How to reach me **vinayykewat@gmail.com**
+- LinkedIn - https://www.linkedin.com/in/vinay-kewat/
+- Mob No   - 6387896703
 
 - ⚡ Fun fact **I think ,I'm funny 😊😊😊😊😊😊**
 
